@@ -1,0 +1,3 @@
+/home/andre/Documents/2022/Cursos-May-Sep/IntroduccionComputacionEvolutiva/Tareas/Tarea5/RestrictedGeneticAlgorithm/cmake-build-debug/CMakeFiles/RestrictedGeneticAlgorithm.dir
+/home/andre/Documents/2022/Cursos-May-Sep/IntroduccionComputacionEvolutiva/Tareas/Tarea5/RestrictedGeneticAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andre/Documents/2022/Cursos-May-Sep/IntroduccionComputacionEvolutiva/Tareas/Tarea5/RestrictedGeneticAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

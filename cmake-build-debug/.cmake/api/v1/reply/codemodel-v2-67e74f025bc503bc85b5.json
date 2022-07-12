@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RestrictedGeneticAlgorithm",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RestrictedGeneticAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RestrictedGeneticAlgorithm-Debug-f6d525edf9b48a9b0401.json",
+					"name" : "RestrictedGeneticAlgorithm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/andre/Documents/2022/Cursos-May-Sep/IntroduccionComputacionEvolutiva/Tareas/Tarea5/RestrictedGeneticAlgorithm/cmake-build-debug",
+		"source" : "/home/andre/Documents/2022/Cursos-May-Sep/IntroduccionComputacionEvolutiva/Tareas/Tarea5/RestrictedGeneticAlgorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
